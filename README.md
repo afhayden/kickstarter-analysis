@@ -10,11 +10,18 @@ The purpose of the project is to review, analyze, and identify possible factors 
 
 ### Description of "US Theatre" Dataset
 We used a large dataset of 1,393 crowdfunding campaigns for theatres. There are three (3) subcategories of theatre within the dataset. Fortunately, "plays" which is the focus of our analysis is the dominante subcategory with 77% of the dataset.
-![Theatre Subcategory Pie Chart](/resources/Threatre_Dataset_Subcategories.png)
+
+![Theatre Subcategory Pie Chart](resources/Theatre_Dataset_Subcategories.png)
 
 ### Analysis of Outcomes Based on Launch Date
+TBD
+
+![Theatre Subcategory Pie Chart](resources/Theatre_Dataset_Subcategories.png)
 
 ### Analysis of Outcomes Based on Goals
+TBD
+
+![Theatre Subcategory Pie Chart](resources/Theatre_Dataset_Subcategories.png)
 
 ### Challenges and Difficulties Encountered
 
