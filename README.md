@@ -15,7 +15,8 @@ We used a large dataset of 1,393 crowdfunding campaigns for theatres from Jul 20
 ![Theatre Subcategory Pie Chart](resources/Theatre_Dataset_Subcategories.png)
 
 ### Analysis of Outcomes Based on Launch Date
-It seems that throughout the years, the best period for launching campaigns would be from Apr thru Jul with May being the best timeframe. 
+It seems that throughout the years, more campaigns were launched from Apr thru Jul with May being the most popular launch month. The difference between successful vs failed is the greatest in within the months of May and 
+
 ![Theater Outcomes by Launch Date Line Chartt](resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
