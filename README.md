@@ -23,7 +23,7 @@ We used a large dataset of 1,393 crowdfunding campaigns for theatres from Jul 20
 ![Theatre Outcomes Based on Goals Line Chart](resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-There is a problem with the dataset. There are some outliers within Goals that are causing uncessary skewing. The Median is 3,000, Mode is $5,000 and the Mean is $46,831.85. A major identified is a Goal of $30 Million dollars. When the $30M outlier was removed, the Mean changed to $25,313.77 with a standard devisation of $200,583 vs $827,769 previously.
+There is a problem with the dataset. There are some outliers within Goals that are causing uncessary skewing. The Median is 3,000, Mode is $5,000 and the Mean is $46,831.85. A major identified is a Goal of $30 Million dollars. When the $30M outlier was removed, the Mean changed to $25,313.77 with a standard devisation of $200,583 vs $827,769 previously. In developing the histogram, the data was so far skewed to the left that it seemed non-helpful to even to display it, even after removing the outlier.
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -33,6 +33,7 @@ It seems that throughout the years, more campaigns were launched from Apr thru J
 We also compared the outcomes of various funding goals. Funding goals of $1,000 or less exhibited the most success, followed by $35,000 thru $45,000, and lastly $5,000 thru $15,000. Failed goals tend to be within the range of $15,000 thru $35,000 and anything above $45,000. "Fever" funding goal of $10,000 with still within the successful range.
 
 - What are some limitations of this dataset?
+It would be more beneficial if the data can also be broken down by city and/or state to provide analysis based on regiions. Data on types of backers, such as income level would also help to identify whome to target for pledge opportunities.
 
 - What are some other possible tables and/or graphs that we could create?
-A histogram from the goals and pledges would help visualize the mean, mode, skewness and where the outliers are.
+A histogram from the goals and pledges would help visualize the mean, mode, skewness and where the outliers are. A scatterplot diagram would definitely show some outliers.
