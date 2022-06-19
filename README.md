@@ -27,7 +27,7 @@ There is a problem with the dataset. There are some outliers within Goals that a
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-It seems that throughout the years, more campaigns were launched from Apr thru Jul with May being the most popular launch month. The difference between successful vs failed is the greatest in within the months of May and June.
+It seems that throughout the years, more campaigns were launched from Apr thru Jul with May being the most popular launch month. The difference between successful vs failed is the greatest in within the months of May and June. December is the worst month for crowdfunding, probably because people are more concerned with holiday shopping.
 
 - What can you conclude about the Outcomes based on Goals?
 We also compared the outcomes of various funding goals. Funding goals of $1,000 or less exhibited the most success, followed by $35,000 thru $45,000, and lastly $5,000 thru $15,000. Failed goals tend to be within the range of $15,000 thru $35,000 and anything above $45,000. "Fever" funding goal of $10,000 with still within the successful range.
